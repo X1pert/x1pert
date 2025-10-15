@@ -3,7 +3,7 @@
   <img src="https://github.com/x1pert.png" alt="x1pert GitHub profile photo" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">Hi 👋 I'm NIKO</h1>
+<h1 align="center">Hi  I'm NIKO</h1>
 <h3 align="center">Self-taught developer | Code. Build. Repeat.</h3>
 
 ---
