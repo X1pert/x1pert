@@ -11,7 +11,6 @@
 - 🔭 I'm currently working on **personal & open-source projects**
 - 🌱 I’m learning **full-stack development** (React, Node.js, MongoDB)
 - 🧩 I like solving real-world problems through code
-- 📫 Reach me on Telegram: [@x1pert](https://t.me/x1pert)
 - ⚡ Fun fact: I break code just to fix it better 😄
 
 ---
