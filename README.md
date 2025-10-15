@@ -1,6 +1,5 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Hi+there!+I'm+NIKO+%F0%9F%91%8B;A+Passionate+Coder+%F0%9F%92%BB;Welcome+to+my+GitHub+Profile+%F0%9F%8C%90" alt="Typing SVG" />
 </p>
 
 <!-- Profile Picture -->
