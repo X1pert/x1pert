@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Hi+there!+I'm+NIKO+%F0%9F%91%8B;A+Passionate+Coder+%F0%9F%92%BB;Welcome+to+my+GitHub+Profile+%F0%9F%8C%90" alt="Typing SVG" />
 </p>
 
+<!-- Profile Picture -->
+<p align="center">
+  <img src="https://github.com/x1pert.png" alt="x1pert GitHub profile photo" width="150" height="150" style="border-radius: 50%;" />
+</p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="coding gif" width="200" />
 </p>
@@ -52,20 +57,17 @@
 
 ---
 
-### 🔗 Find me around the web
+### 🔗 My Socials (Just GitHub shown here)
 
 <p align="center">
   <a href="https://github.com/x1pert" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  </a> &nbsp;
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a> &nbsp;
+    <img src="https://img.shields.io/badge/GitHub-x1pert-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-### ⚡ Fun Facts & Quotes
+### ⚡ Fun Facts & Dev Quotes
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House  
 > "First, solve the problem. Then, write the code." — John Johnson  
@@ -73,6 +75,8 @@
 
 ---
 
+### 🔥 Profile Views (1M+ Style)
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=x1pert&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Profile_Views-1%2C000%2C000%2B-blueviolet?style=for-the-badge&logo=github" />
 </p>
