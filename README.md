@@ -11,10 +11,9 @@
 
 ### 👨‍💻 About Me
 - 🔭 Currently working on **open-source projects & personal apps**
-- 🌱 Always learning **React, Node.js, Next.js, and GraphQL**
-- 💬 Ask me about JavaScript, Python, and problem-solving
-- 📫 How to reach me: [Telegram @x1pert](https://t.me/x1pert) | [Email](mailto:x1pert@example.com)
-- ⚡ Fun fact: I love debugging at 3 AM ☕ and turning coffee into code
+- 🌱 Learning **React, Node.js, Next.js, GraphQL**
+- 💬 Feel free to ask about **JavaScript**, **Python**, and **problem-solving**
+- ⚡ Fun fact: I write bug reports in my sleep ☕ and turn coffee into code.
 
 ---
 
@@ -34,25 +33,21 @@
 
 ---
 
-### 🌱 What I'm Learning Now
+### 🌱 Currently Learning
 
 - Advanced React patterns and hooks  
-- Building full-stack apps with Next.js and GraphQL  
-- Cloud services: AWS & DigitalOcean  
-- Testing with Jest & Cypress
+- Full-stack development with Next.js and GraphQL  
+- Cloud services (AWS & DigitalOcean)  
+- Test-driven development (TDD)
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=x1pert&show_icons=true&theme=dracula" width="47%" />
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com?user=x1pert&theme=dracula" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=x1pert&theme=dracula&area=true" />
 </p>
 
 ---
@@ -63,24 +58,18 @@
   <a href="https://github.com/x1pert" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a> &nbsp;
-  <a href="https://t.me/x1pert" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white&style=for-the-badge" />
-  </a> &nbsp;
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a> &nbsp;
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
-  </a>
 </p>
 
 ---
 
 ### ⚡ Fun Facts & Quotes
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House  
-> “First, solve the problem. Then, write the code.” — John Johnson  
-> “Simplicity is the soul of efficiency.” — Austin Freeman
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House  
+> "First, solve the problem. Then, write the code." — John Johnson  
+> "Simplicity is the soul of efficiency." — Austin Freeman
 
 ---
 
