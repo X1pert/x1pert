@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://i.imgur.com/exampleimage.png" alt="NIKO profile photo" width="150" height="150" style="border-radius: 50%;" />
+  <img src="https://github.com/x1pert.png" alt="x1pert GitHub profile photo" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center"> NIKO</h1>
@@ -77,7 +77,6 @@
 ---
 
 ### ⚡ Fun Dev Quotes
-
 > 💬 "Code is like humor. When you have to explain it, it’s bad." — Cory House  
 > 💡 "First, solve the problem. Then, write the code." — John Johnson  
 > 🧠 "Simplicity is the soul of efficiency." — Austin Freeman
