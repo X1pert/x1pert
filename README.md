@@ -12,7 +12,7 @@
 
 - 🔭 Currently working on **open-source & personal apps**
 - 🌱 Learning **React, Node.js, Next.js, GraphQL**
-- 💬 Ask me about **JavaScript**, **Python**, and building apps
+- 💬 Ask me about **Python**, and building apps
 - ⚡ Fun fact: I debug better at night with coffee ☕ & lo-fi beats
 
 ---
